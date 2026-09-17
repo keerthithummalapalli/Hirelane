@@ -1,3 +1,13 @@
+## Contributors
+@keerthithummalapalli
+
+UI/UX Design
+Frontend Development
+@nehatirumalaraju
+
+Backend Development
+Database & API Integration
+
 # HireLane — Track. Prepare. Get Hired.
 
 > A modern, pixel-perfect job application and interview tracker built with Next.js (App Router), TypeScript, Tailwind CSS, Supabase PostgreSQL & Auth, and Resend for real transactional email reminders.
