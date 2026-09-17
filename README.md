@@ -1,8 +1,10 @@
 ## Contributors
+
 @keerthithummalapalli
 
 UI/UX Design
 Frontend Development
+
 @nehatirumalaraju
 
 Backend Development
